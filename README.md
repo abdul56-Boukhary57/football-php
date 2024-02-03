@@ -3,11 +3,11 @@
   <img src="https://github.com/abdul56-Boukhary57/football-php/assets/156978189/06cdb874-4dbd-4537-a713-c93d11106401" alt="Main page">
 </p>
 <h1>Add Player Page</h1>
-![Add player](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/ae01b831-a6cc-4778-abeb-a9fb0beb7a9a)
+<img src="https://github.com/abdul56-Boukhary57/football-php/assets/156978189/ae01b831-a6cc-4778-abeb-a9fb0beb7a9a" alt="Add Player Page">
 <h1>Add Team Page</h1>
-![Add Team](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/e27d21ad-851e-40ea-b3cd-32ac5d2c6c4f)
+<img src="https://github.com/abdul56-Boukhary57/football-php/assets/156978189/e27d21ad-851e-40ea-b3cd-32ac5d2c6c4f" alt="Add Team Page">
 <h1>Assign Page</h1>
-![Assign Page](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/00f66f1d-e2d8-4cf3-9b0d-066678bafa68)
+<img src="https://github.com/abdul56-Boukhary57/football-php/assets/156978189/00f66f1d-e2d8-4cf3-9b0d-066678bafa68" alt="Assign Page">
 <h1>Display Players Page</h1>
 ![Display Players](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/69edb30d-6cdc-44a3-92f7-94c2bbfa09be)
 <h1>Table Players Page</h1>
