@@ -10,7 +10,6 @@ Display Players Page
 ![Display Players](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/69edb30d-6cdc-44a3-92f7-94c2bbfa09be)
 Table Players Page
 ![Table Players](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/4dd1b374-1988-4eb5-926b-87c3c0a8c9ef)
-
 Table Teams Page
 ![Table Teams](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/9082305c-2b92-47fb-ac7e-61e2950974e8)
 Display Players by Team Page
