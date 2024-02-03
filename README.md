@@ -1,4 +1,4 @@
-Main Page
+<h1>Main Page</h1>
 ![Main page](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/06cdb874-4dbd-4537-a713-c93d11106401)
 Add Player Page
 ![Add player](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/ae01b831-a6cc-4778-abeb-a9fb0beb7a9a)
