@@ -1,5 +1,7 @@
-<center><h1>Main Page</h1></center>
-<img src="https://github.com/abdul56-Boukhary57/football-php/assets/156978189/06cdb874-4dbd-4537-a713-c93d11106401" alt="Main page">
+<p align="center">
+  <h1>Main Page</h1>
+  <img src="https://raw.githubusercontent.com/abdul56-Boukhary57/football-php/main/assets/156978189/06cdb874-4dbd-4537-a713-c93d11106401.png" alt="Main page">
+</p>
 <h1>Add Player Page</h1>
 ![Add player](https://github.com/abdul56-Boukhary57/football-php/assets/156978189/ae01b831-a6cc-4778-abeb-a9fb0beb7a9a)
 <h1>Add Team Page</h1>
